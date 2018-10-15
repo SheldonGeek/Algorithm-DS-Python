@@ -1,6 +1,6 @@
 class Solution:
 
-    def isCyclicGraph(self, start, end):
+    def is_cyclic_graph(self, start, end):
         import Queue
 
         n = 0
